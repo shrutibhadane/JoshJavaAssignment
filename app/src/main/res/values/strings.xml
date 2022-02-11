@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JoshAssignment</string>
+    <string name="submit">Submit</string>
+    <string name="enter_your_input">Enter your input</string>
+    <string name="number_1">Number : 1</string>
+    <string name="please_enter_your_input">Please enter your input!</string>
+</resources>
